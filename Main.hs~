@@ -1,0 +1,8 @@
+import System.IO
+import System.Process
+import System.Environment
+
+
+main = do
+  (a:_) <- getArgs
+  
